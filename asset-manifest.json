@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/website/static/css/main.81c0ab96.chunk.css",
-    "main.js": "/website/static/js/main.79cb13ba.chunk.js",
-    "main.js.map": "/website/static/js/main.79cb13ba.chunk.js.map",
+    "main.js": "/website/static/js/main.d6c14ef4.chunk.js",
+    "main.js.map": "/website/static/js/main.d6c14ef4.chunk.js.map",
     "runtime-main.js": "/website/static/js/runtime-main.fe35fded.js",
     "runtime-main.js.map": "/website/static/js/runtime-main.fe35fded.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/website/static/css/2.4c97ca4f.chunk.css",
@@ -11,13 +11,24 @@
     "index.html": "/website/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/website/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.81c0ab96.chunk.css.map": "/website/static/css/main.81c0ab96.chunk.css.map",
-    "static/js/2.2ee6d623.chunk.js.LICENSE.txt": "/website/static/js/2.2ee6d623.chunk.js.LICENSE.txt"
+    "static/js/2.2ee6d623.chunk.js.LICENSE.txt": "/website/static/js/2.2ee6d623.chunk.js.LICENSE.txt",
+    "static/media/50+1.7a695b72.png": "/website/static/media/50+1.7a695b72.png",
+    "static/media/CensusAcademy.a10dace2.png": "/website/static/media/CensusAcademy.a10dace2.png",
+    "static/media/CensusSurveyExplorer.3459af7c.png": "/website/static/media/CensusSurveyExplorer.3459af7c.png",
+    "static/media/GoalsSlide.2c33fe86.png": "/website/static/media/GoalsSlide.2c33fe86.png",
+    "static/media/Lenovo.10dc7348.png": "/website/static/media/Lenovo.10dc7348.png",
+    "static/media/OpenDataCampus.09ec007a.png": "/website/static/media/OpenDataCampus.09ec007a.png",
+    "static/media/ProcessSlide.4def689a.png": "/website/static/media/ProcessSlide.4def689a.png",
+    "static/media/home.f03edbdc.jpg": "/website/static/media/home.f03edbdc.jpg",
+    "static/media/laptop.81d2fac4.jpg": "/website/static/media/laptop.81d2fac4.jpg",
+    "static/media/me.18d5996d.jpg": "/website/static/media/me.18d5996d.jpg",
+    "static/media/pie.473d0d0a.jpg": "/website/static/media/pie.473d0d0a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.fe35fded.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.2ee6d623.chunk.js",
     "static/css/main.81c0ab96.chunk.css",
-    "static/js/main.79cb13ba.chunk.js"
+    "static/js/main.d6c14ef4.chunk.js"
   ]
 }
