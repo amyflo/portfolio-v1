@@ -1,17 +1,32 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./App";
+import About from "./About";
+import Play from "./Play";
+import Resume from "./Resume";
+import "bootstrap/dist/css/bootstrap.min.css";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import Navigation from "./components/Navigation";
+import Lenovo from "./Lenovo";
+import CensusAcademy from "./CensusAcademy";
+import ScrollToTop from "./components/ScrollToTop";
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Router>
+      <ScrollToTop />
+      <Navigation />
+      <Switch>
+        <Route exact path="/" component={App} />
+        <Route exact path="/website" component={App} />
+        <Route exact path="/#" component={App} />
+        <Route exact path="/play" component={Play} />
+        <Route exact path="/resume" component={Resume} />
+        <Route exact path="/about" component={About} />
+        <Route path="/lenovo" component={Lenovo} />
+        <Route path="/censusacademy" component={CensusAcademy} />
+      </Switch>
+    </Router>
   </React.StrictMode>,
-  document.getElementById('root')
+  document.getElementById("root")
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
