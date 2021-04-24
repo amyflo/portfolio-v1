@@ -1,18 +1,29 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.81c0ab96.chunk.css",
-    "main.js": "/website/static/js/main.d6c14ef4.chunk.js",
-    "main.js.map": "/website/static/js/main.d6c14ef4.chunk.js.map",
+    "main.css": "/website/static/css/main.beaf3e9f.chunk.css",
+    "main.js": "/website/static/js/main.b2e76dbf.chunk.js",
+    "main.js.map": "/website/static/js/main.b2e76dbf.chunk.js.map",
     "runtime-main.js": "/website/static/js/runtime-main.fe35fded.js",
     "runtime-main.js.map": "/website/static/js/runtime-main.fe35fded.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/website/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.2ee6d623.chunk.js": "/website/static/js/2.2ee6d623.chunk.js",
-    "static/js/2.2ee6d623.chunk.js.map": "/website/static/js/2.2ee6d623.chunk.js.map",
+    "static/js/2.905b98b2.chunk.js": "/website/static/js/2.905b98b2.chunk.js",
+    "static/js/2.905b98b2.chunk.js.map": "/website/static/js/2.905b98b2.chunk.js.map",
     "index.html": "/website/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/website/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.81c0ab96.chunk.css.map": "/website/static/css/main.81c0ab96.chunk.css.map",
-    "static/js/2.2ee6d623.chunk.js.LICENSE.txt": "/website/static/js/2.2ee6d623.chunk.js.LICENSE.txt",
+    "static/css/main.beaf3e9f.chunk.css.map": "/website/static/css/main.beaf3e9f.chunk.css.map",
+    "static/js/2.905b98b2.chunk.js.LICENSE.txt": "/website/static/js/2.905b98b2.chunk.js.LICENSE.txt",
     "static/media/50+1.7a695b72.png": "/website/static/media/50+1.7a695b72.png",
+    "static/media/Census Academy - Cards.1284fedf.jpg": "/website/static/media/Census Academy - Cards.1284fedf.jpg",
+    "static/media/Census Academy - Competitive Analysis.cb260143.jpg": "/website/static/media/Census Academy - Competitive Analysis.cb260143.jpg",
+    "static/media/Census Academy - Course Completion.09115eb1.jpg": "/website/static/media/Census Academy - Course Completion.09115eb1.jpg",
+    "static/media/Census Academy - Course Discovery.559031ea.jpg": "/website/static/media/Census Academy - Course Discovery.559031ea.jpg",
+    "static/media/Census Academy - Course Modules.ce2293db.jpg": "/website/static/media/Census Academy - Course Modules.ce2293db.jpg",
+    "static/media/Census Academy - Course Overview.9f7b4d0d.jpg": "/website/static/media/Census Academy - Course Overview.9f7b4d0d.jpg",
+    "static/media/Census Academy - Course Page.b312b802.jpg": "/website/static/media/Census Academy - Course Page.b312b802.jpg",
+    "static/media/Census Academy - Dashboard.78b37541.jpg": "/website/static/media/Census Academy - Dashboard.78b37541.jpg",
+    "static/media/Census Academy - Taking the course.9fd82559.jpg": "/website/static/media/Census Academy - Taking the course.9fd82559.jpg",
+    "static/media/Census Academy - User Flow.a639024e.jpg": "/website/static/media/Census Academy - User Flow.a639024e.jpg",
+    "static/media/Census Academy - User Journey.5cc65470.jpg": "/website/static/media/Census Academy - User Journey.5cc65470.jpg",
     "static/media/CensusAcademy.a10dace2.png": "/website/static/media/CensusAcademy.a10dace2.png",
     "static/media/CensusSurveyExplorer.3459af7c.png": "/website/static/media/CensusSurveyExplorer.3459af7c.png",
     "static/media/GoalsSlide.2c33fe86.png": "/website/static/media/GoalsSlide.2c33fe86.png",
@@ -22,13 +33,17 @@
     "static/media/home.f03edbdc.jpg": "/website/static/media/home.f03edbdc.jpg",
     "static/media/laptop.81d2fac4.jpg": "/website/static/media/laptop.81d2fac4.jpg",
     "static/media/me.18d5996d.jpg": "/website/static/media/me.18d5996d.jpg",
-    "static/media/pie.473d0d0a.jpg": "/website/static/media/pie.473d0d0a.jpg"
+    "static/media/mockup1.102a4c14.png": "/website/static/media/mockup1.102a4c14.png",
+    "static/media/mockup2.3dae51b1.gif": "/website/static/media/mockup2.3dae51b1.gif",
+    "static/media/mockup3.047af6bd.jpg": "/website/static/media/mockup3.047af6bd.jpg",
+    "static/media/pie.473d0d0a.jpg": "/website/static/media/pie.473d0d0a.jpg",
+    "static/media/user_flow.97b53ebb.gif": "/website/static/media/user_flow.97b53ebb.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.fe35fded.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.2ee6d623.chunk.js",
-    "static/css/main.81c0ab96.chunk.css",
-    "static/js/main.d6c14ef4.chunk.js"
+    "static/js/2.905b98b2.chunk.js",
+    "static/css/main.beaf3e9f.chunk.css",
+    "static/js/main.b2e76dbf.chunk.js"
   ]
 }
