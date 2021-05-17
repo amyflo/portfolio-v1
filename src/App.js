@@ -4,10 +4,10 @@ import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import PortfolioCard from "./components/PortfolioCard";
 import CensusAcademy from "./images/PortfolioHeaders/CensusAcademy.png";
-import FiftyPlusOne from "./images/PortfolioHeaders/50+1.png";
-import CensusSurveyExplorer from "./images/PortfolioHeaders/CensusSurveyExplorer.png";
 import Lenovo from "./images/PortfolioHeaders/Lenovo.png";
-import OpenDataCampus from "./images/PortfolioHeaders/OpenDataCampus.png";
+// import FiftyPlusOne from "./images/PortfolioHeaders/50+1.png";
+// import CensusSurveyExplorer from "./images/PortfolioHeaders/CensusSurveyExplorer.png";
+// import OpenDataCampus from "./images/PortfolioHeaders/OpenDataCampus.png";
 
 const App = () => (
   <div>
@@ -34,7 +34,7 @@ const App = () => (
           Subheader="Envisioning data education courses for the Census Academy team with the U.S. Census Bureau and Coding it Forward."
           Text="UX Design, UX Research"
         />
-        <PortfolioCard
+        {/* <PortfolioCard
           PortfolioLink=""
           ImageLink={CensusSurveyExplorer}
           ImageAlt="Description"
@@ -58,7 +58,7 @@ const App = () => (
           Headline="50+1 Strategies"
           Subheader="Creating for 20+ local, state, and national political campaigns."
           Text="Branding design, Content design, Campaign strategy"
-        />
+        /> */}
       </Container>
       <Footer />
     </main>

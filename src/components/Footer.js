@@ -16,29 +16,35 @@ const Footer = () => (
           </p>
           <Button
             className="custom-btn"
-            href="https://calendly.com/amyflo/checkin?month=2021-04"
+            href="https://calendly.com/amyflo/checkin"
           >
             Get in touch
           </Button>
         </ColGroup>
         <ColGroup title="Site Map" md="4">
+          <li>
           <LinkContainer to="/">
-            <li className="FooterLink" >Work</li>
+            <a href="/" className="textLink" >Work</a>
           </LinkContainer>
-          <LinkContainer to="/play">
+          </li>
+          {/* <LinkContainer to="/play">
             <li className="FooterLink" >Playground</li>
-          </LinkContainer>
+          </LinkContainer> */}
+          <li>
           <LinkContainer to="/resume">
-            <li className="FooterLink" >Resume</li>
+            <a href="/resume" className="textLink">Resume</a>
           </LinkContainer>
+          </li>
+          <li>
           <LinkContainer to="/about">
-            <li className="FooterLink" >About</li>
+            <a href="/about" className="textLink" >About</a>
           </LinkContainer>
+          </li>
         </ColGroup>
         <ColGroup title="Contact" md="4">
-          <li>Meet with me</li>
-          <li>LinkedIn</li>
-          <li>Email</li>
+          <li><a className="textLink" href="https://calendly.com/amyflo/checkin">Meet with me</a></li>
+          <li><a className="textLink" href="https://www.linkedin.com/in/amyflo/">LinkedIn</a></li>
+          <li><a className="textLink" href="mailto:amyflo@stanford.edu">Email</a></li>
         </ColGroup>
       </Row>
     </Container>

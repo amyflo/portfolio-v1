@@ -11,7 +11,6 @@ import Laptop from "./images/About/laptop.jpg";
 import Pie from "./images/About/pie.jpg";
 
 const About = () => (
-  <div>
     <Container>
       <Row>
         <Col>
@@ -116,10 +115,10 @@ const About = () => (
           </Col>
         </Row>
       </Fade>
-    </Container>
 
     <Footer />
-  </div>
+    </Container>
+
 );
 
 export default About;

@@ -16,9 +16,9 @@ const Navigation = () => {
               <LinkContainer to="/#">
                 <Nav.Link className="nav-link">Work</Nav.Link>
               </LinkContainer>
-              <LinkContainer to="/play">
+              {/* <LinkContainer to="/play">
                 <Nav.Link className="nav-link">Playground</Nav.Link>
-              </LinkContainer>
+              </LinkContainer> */}
               <LinkContainer to="/resume">
                 <Nav.Link className="nav-link">Resume</Nav.Link>
               </LinkContainer>
